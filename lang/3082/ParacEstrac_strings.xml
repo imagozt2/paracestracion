@@ -1,0 +1,138 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <ParacEstrac>Paracestracion</ParacEstrac>
+      <ParacEstrac_stt>Paracestracion</ParacEstrac_stt>
+      <ParacEstrac_lower>the Paracestracion</ParacEstrac_lower>
+      <ParacEstrac_ltt>
+         <color r="255" g="248" b="178">
+            <b>Paracestracion</b>
+         </color>
+         <br/>
+         Click para seleccionar y colocar un Paracestracion.
+      </ParacEstrac_ltt>
+<!--egg names-->
+      <ParacEstrac_Egg>Huevo de Paracestracion</ParacEstrac_Egg>
+      <ParacEstrac_Egg_stt>Huevo de Paracestracion</ParacEstrac_Egg_stt>
+      <ParacEstrac_Egg_lower>el Huevo de Paracestracion</ParacEstrac_Egg_lower>
+      <ParacEstrac_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Huevo de Paracestracion</b>
+         </color>
+         <br/>
+         Click para seleccionar el huevo de Paracestracion.
+       </ParacEstrac_Egg_ltt>
+      <!--gift names-->
+      <ParacEstrac_Gift>Paracestracion</ParacEstrac_Gift>
+      <ParacEstrac_Gift_stt>Paracestracion</ParacEstrac_Gift_stt>
+      <ParacEstrac_Gift_lower>El Paracestracion</ParacEstrac_Gift_lower>
+      <ParacEstrac_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b></b>
+         </color>
+         <br/>.
+      </ParacEstrac_Gift_ltt>
+</entityname>
+<zoopedia_paracestrac>
+ <entry>Paracestracion</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ParacEstrac/ParacEstrac_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion
+                     <br/>
+                        <color r="170" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Arrecife<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Costas del pacifico este<br/></color> 
+     <img src="ui/icon_maplocations/reef_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: peces cartilaginosos <i>(Chondricthyes)</i><br/>orden: tiburones cornudos<i>(Heterodontiformes)</i><br/>Familia: <i>(Heterodontidae)</i><br/>Genero: <i>Paracestracion</i><br/>Especie: <i>P. Falciferi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades del Paracestracion</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es antepasado del tiburon de Port Jackson. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivio durante el Jurasico.
+. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Este tiburon a penas alcanzaba los 30 cm. </color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Paracestracion en los modos desafio, debes conseguir 2 estrellas zoo de fama en tu zoo. 
+   </color>
+   <p/>Paracestracion es un genero de tiburones que vivieron en el jurasico hace de 167,7 a 150,8 millones. Los fosiles de este pez son localizados en Alemania y Inglaterra. Los representantes del genero Paracestracion eran mini-tiburones muy similares a los tiburones cornudos recientes. Su figura era delgada, la cabeza es relativamente grande y angular. Las aletas pectorales son relativamente grandes. Paracestracion solo se diferenciava de los tiburones cornudos actuales por sus dientes. Paracestracion tenia puas en las aletas dorsales .Paracestracion era un pez de fondo, probablemente lenta, que se alimentan principalmente de moluscos, erizos de mar y otros animales de concha dura.
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de: <color r="255" g="231" b="135">Wikipedia</color>  Creado por <color r="0" g="0" b="0"></color>Imago
+  </cell>
+ </text>
+</zoopedia_paracestrac>
+</ZT2Strings>
